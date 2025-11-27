@@ -1,0 +1,506 @@
+{
+  "calendarHistory": {
+    "2025-11-01": {
+      "checklist": {
+        "makan": true,
+        "minum": true,
+        "olahraga": true,
+        "ibadah": true
+      }
+    },
+    "2025-11-02": {
+      "checklist": {
+        "makan": true,
+        "minum": true,
+        "olahraga": true,
+        "ibadah": false
+      }
+    },
+    "2025-11-03": {
+      "checklist": {
+        "makan": true,
+        "minum": true,
+        "olahraga": false,
+        "ibadah": false
+      }
+    },
+    "2025-11-04": {
+      "checklist": {
+        "makan": true,
+        "minum": false,
+        "olahraga": false,
+        "ibadah": false
+      }
+    },
+    "2025-11-05": {
+      "checklist": {
+        "makan": false,
+        "minum": false,
+        "olahraga": false,
+        "ibadah": false
+      }
+    },
+    "2025-11-06": {
+      "checklist": {
+        "makan": true,
+        "minum": true,
+        "olahraga": true,
+        "ibadah": true
+      }
+    },
+    "2025-11-07": {
+      "checklist": {
+        "makan": true,
+        "minum": true,
+        "olahraga": true,
+        "ibadah": false
+      }
+    },
+    "2025-11-08": {
+      "checklist": {
+        "makan": true,
+        "minum": true,
+        "olahraga": false,
+        "ibadah": false
+      }
+    },
+    "2025-11-09": {
+      "checklist": {
+        "makan": true,
+        "minum": false,
+        "olahraga": false,
+        "ibadah": false
+      }
+    },
+    "2025-11-10": {
+      "checklist": {
+        "makan": false,
+        "minum": false,
+        "olahraga": false,
+        "ibadah": false
+      }
+    },
+    "2025-11-11": {
+      "checklist": {
+        "makan": true,
+        "minum": true,
+        "olahraga": true,
+        "ibadah": true
+      }
+    },
+    "2025-11-12": {
+      "checklist": {
+        "makan": true,
+        "minum": true,
+        "olahraga": true,
+        "ibadah": false
+      }
+    },
+    "2025-11-13": {
+      "checklist": {
+        "makan": true,
+        "minum": true,
+        "olahraga": false,
+        "ibadah": false
+      }
+    },
+    "2025-11-14": {
+      "checklist": {
+        "makan": true,
+        "minum": false,
+        "olahraga": false,
+        "ibadah": false
+      }
+    },
+    "2025-11-15": {
+      "checklist": {
+        "makan": false,
+        "minum": false,
+        "olahraga": false,
+        "ibadah": false
+      }
+    },
+    "2025-11-16": {
+      "checklist": {
+        "makan": true,
+        "minum": true,
+        "olahraga": true,
+        "ibadah": true
+      }
+    },
+    "2025-11-17": {
+      "checklist": {
+        "makan": true,
+        "minum": true,
+        "olahraga": true,
+        "ibadah": false
+      }
+    },
+    "2025-11-18": {
+      "checklist": {
+        "makan": true,
+        "minum": true,
+        "olahraga": false,
+        "ibadah": false
+      }
+    },
+    "2025-11-19": {
+      "checklist": {
+        "makan": true,
+        "minum": true,
+        "olahraga": true,
+        "ibadah": true
+      }
+    },
+    "2025-11-20": {
+      "checklist": {
+        "makan": false,
+        "minum": false,
+        "olahraga": false,
+        "ibadah": false
+      }
+    },
+    "2025-11-21": {
+      "checklist": {
+        "makan": true,
+        "minum": true,
+        "olahraga": true,
+        "ibadah": true
+      }
+    },
+    "2025-11-22": {
+      "checklist": {
+        "makan": true,
+        "minum": true,
+        "olahraga": true,
+        "ibadah": true
+      }
+    },
+    "2025-11-23": {
+      "checklist": {
+        "makan": true,
+        "minum": true,
+        "olahraga": true,
+        "ibadah": true
+      }
+    },
+    "2025-11-24": {
+      "checklist": {
+        "makan": true,
+        "minum": false,
+        "olahraga": false,
+        "ibadah": false
+      }
+    },
+    "2025-11-25": {
+      "checklist": {
+        "makan": false,
+        "minum": false,
+        "olahraga": false,
+        "ibadah": false
+      }
+    },
+    "2025-11-26": {
+      "checklist": {
+        "makan": true,
+        "minum": true,
+        "olahraga": true,
+        "ibadah": true
+      }
+    },
+    "2025-11-27": {
+      "checklist": {
+        "makan": true,
+        "minum": true,
+        "olahraga": true,
+        "ibadah": false
+      }
+    },
+    "2025-11-28": {
+      "checklist": {
+        "makan": true,
+        "minum": true,
+        "olahraga": false,
+        "ibadah": false
+      }
+    },
+    "2025-11-29": {
+      "checklist": {
+        "makan": true,
+        "minum": false,
+        "olahraga": false,
+        "ibadah": false
+      }
+    },
+    "2025-11-30": {
+      "checklist": {
+        "makan": false,
+        "minum": false,
+        "olahraga": false,
+        "ibadah": false
+      }
+    },
+    "2025-12-01": {
+      "checklist": {
+        "makan": true,
+        "minum": true,
+        "olahraga": true,
+        "ibadah": true
+      }
+    },
+    "2025-12-02": {
+      "checklist": {
+        "makan": true,
+        "minum": true,
+        "olahraga": true,
+        "ibadah": false
+      }
+    },
+    "2025-12-03": {
+      "checklist": {
+        "makan": true,
+        "minum": true,
+        "olahraga": false,
+        "ibadah": false
+      }
+    },
+    "2025-12-04": {
+      "checklist": {
+        "makan": true,
+        "minum": false,
+        "olahraga": false,
+        "ibadah": false
+      }
+    },
+    "2025-12-05": {
+      "checklist": {
+        "makan": false,
+        "minum": false,
+        "olahraga": false,
+        "ibadah": false
+      }
+    },
+    "2025-12-06": {
+      "checklist": {
+        "makan": true,
+        "minum": true,
+        "olahraga": true,
+        "ibadah": true
+      }
+    },
+    "2025-12-07": {
+      "checklist": {
+        "makan": true,
+        "minum": true,
+        "olahraga": true,
+        "ibadah": false
+      }
+    },
+    "2025-12-08": {
+      "checklist": {
+        "makan": true,
+        "minum": true,
+        "olahraga": false,
+        "ibadah": false
+      }
+    },
+    "2025-12-09": {
+      "checklist": {
+        "makan": true,
+        "minum": false,
+        "olahraga": false,
+        "ibadah": false
+      }
+    },
+    "2025-12-10": {
+      "checklist": {
+        "makan": false,
+        "minum": false,
+        "olahraga": false,
+        "ibadah": false
+      }
+    },
+    "2025-12-11": {
+      "checklist": {
+        "makan": true,
+        "minum": true,
+        "olahraga": true,
+        "ibadah": true
+      }
+    },
+    "2025-12-12": {
+      "checklist": {
+        "makan": true,
+        "minum": true,
+        "olahraga": true,
+        "ibadah": false
+      }
+    },
+    "2025-12-13": {
+      "checklist": {
+        "makan": true,
+        "minum": true,
+        "olahraga": false,
+        "ibadah": false
+      }
+    },
+    "2025-12-14": {
+      "checklist": {
+        "makan": true,
+        "minum": false,
+        "olahraga": false,
+        "ibadah": false
+      }
+    },
+    "2025-12-15": {
+      "checklist": {
+        "makan": false,
+        "minum": false,
+        "olahraga": false,
+        "ibadah": false
+      }
+    },
+    "2025-12-16": {
+      "checklist": {
+        "makan": true,
+        "minum": true,
+        "olahraga": true,
+        "ibadah": true
+      }
+    },
+    "2025-12-17": {
+      "checklist": {
+        "makan": true,
+        "minum": true,
+        "olahraga": true,
+        "ibadah": false
+      }
+    },
+    "2025-12-18": {
+      "checklist": {
+        "makan": true,
+        "minum": true,
+        "olahraga": false,
+        "ibadah": false
+      }
+    },
+    "2025-12-19": {
+      "checklist": {
+        "makan": true,
+        "minum": false,
+        "olahraga": false,
+        "ibadah": false
+      }
+    },
+    "2025-12-20": {
+      "checklist": {
+        "makan": false,
+        "minum": false,
+        "olahraga": false,
+        "ibadah": false
+      }
+    },
+    "2025-12-21": {
+      "checklist": {
+        "makan": true,
+        "minum": true,
+        "olahraga": true,
+        "ibadah": true
+      }
+    },
+    "2025-12-22": {
+      "checklist": {
+        "makan": true,
+        "minum": true,
+        "olahraga": true,
+        "ibadah": false
+      }
+    },
+    "2025-12-23": {
+      "checklist": {
+        "makan": true,
+        "minum": true,
+        "olahraga": false,
+        "ibadah": false
+      }
+    },
+    "2025-12-24": {
+      "checklist": {
+        "makan": true,
+        "minum": false,
+        "olahraga": false,
+        "ibadah": false
+      }
+    },
+    "2025-12-25": {
+      "checklist": {
+        "makan": false,
+        "minum": false,
+        "olahraga": false,
+        "ibadah": false
+      }
+    },
+    "2025-12-26": {
+      "checklist": {
+        "makan": true,
+        "minum": true,
+        "olahraga": true,
+        "ibadah": true
+      }
+    },
+    "2025-12-27": {
+      "checklist": {
+        "makan": true,
+        "minum": true,
+        "olahraga": true,
+        "ibadah": false
+      }
+    },
+    "2025-12-28": {
+      "checklist": {
+        "makan": true,
+        "minum": true,
+        "olahraga": false,
+        "ibadah": false
+      }
+    },
+    "2025-12-29": {
+      "checklist": {
+        "makan": true,
+        "minum": false,
+        "olahraga": false,
+        "ibadah": false
+      }
+    },
+    "2025-12-30": {
+      "checklist": {
+        "makan": false,
+        "minum": false,
+        "olahraga": false,
+        "ibadah": false
+      }
+    },
+    "2025-12-31": {
+      "checklist": {
+        "makan": true,
+        "minum": true,
+        "olahraga": true,
+        "ibadah": true
+      }
+    }
+  },
+  "dashboardToday": {
+    "tanggal": "2025-11-22",
+    "nama": "Surya Mahendra",
+    "streak": 6,
+    "habitSelesai": 4,
+    "totalHabit": 4,
+    "checklist": {
+      "makan": true,
+      "minum": true,
+      "olahraga": true,
+      "ibadah": true
+    },
+    "rekomendasi": "Coba tambah sesi peregangan 5 menit sebelum tidur malam ini."
+  }
+}
